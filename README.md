@@ -29,8 +29,8 @@ pip install transformers==4.55.0 torch==2.8.0 gradio==5.42.0
 Clone this repository:
 
 ```bash
-git clone <repo-url>
-cd <repo-directory>
+git clone https://github.com/ugurcandemir/GPT2-Chatbot
+cd GPT2-Chatbot
 
 Run the app:
 
