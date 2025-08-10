@@ -23,6 +23,7 @@ You can install the dependencies with:
 
 ```bash
 pip install transformers==4.55.0 torch==2.8.0 gradio==5.42.0
+```bash
 
 ## How to Run
 
@@ -31,11 +32,13 @@ Clone this repository:
 ```bash
 git clone https://github.com/ugurcandemir/GPT2-Chatbot
 cd GPT2-Chatbot
+```bash
 
 Run the app:
 
 ```bash
 python main.py
+```bash
 
 Open the URL shown in your terminal to access the interface.
 
